@@ -1,0 +1,10 @@
+{
+    "TOKEN": "Token do bot",
+    "PREFIX": "-",
+    "NODES": [
+        {
+            "uri": "ip ou url com a porta do lavalink",
+            "password": "senha do lavalink"
+        }
+    ]
+}
